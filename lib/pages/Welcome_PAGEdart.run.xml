@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Welcome_PAGEdart" type="FlutterRunConfigurationType" factoryName="Flutter" editBeforeRun="true">
+    <option name="filePath" value="$PROJECT_DIR$/lib/pages/Welcome_PAGE.dart" />
+    <method v="2" />
+  </configuration>
+</component>
